@@ -4,7 +4,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>In this project data is taken from the Guangzhou Women and Children’s Medical Center and kaggle, which consist of 219 images of corona infected lungs X-ray and 1341 images of normal lungs X-ray. The data is split into training set and testing set manually in separate folder. For training set I took 75% of total data and remaining 25% for testing set. </p>
+<p> The data is split into training set and testing set manually in separate folder. For training set I took 75% of total data and remaining 25% for testing set. </p>
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":438,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="https://capablemachine.files.wordpress.com/2020/05/image-79.png?w=507" alt="" class="wp-image-438"/><figcaption>X-Ray</figcaption></figure>
